@@ -1,6 +1,7 @@
 import styled from 'styled-components';
 
 export const BtnList = styled.ul`
+padding: 0px;
   display: flex;
   align-items: center;
   justify-content: space-between;
